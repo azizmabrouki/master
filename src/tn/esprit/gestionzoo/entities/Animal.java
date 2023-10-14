@@ -1,10 +1,5 @@
-import tn.esprit.gestionzoo.entities.Animal;
 package tn.esprit.gestionzoo.entities;
-        package tn.esprit.gestionzoo.main;
 
-import tn.esprit.gestionzoo.entities.Animal;
-
-import tn.esprit.gestionzoo.main.ZooManagement;
 public class Animal {
 
     String family;

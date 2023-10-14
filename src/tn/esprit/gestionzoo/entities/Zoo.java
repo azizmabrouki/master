@@ -1,5 +1,4 @@
 package tn.esprit.gestionzoo.entities;
-package tn.esprit.gestionzoo.main;
 
 import tn.esprit.gestionzoo.entities.Animal;
 public class Zoo {
@@ -36,7 +35,7 @@ public class Zoo {
  boolean isZooFull() {
     return nbrAnimals == nbrCages;
 }
-boolean addAnimal(Animal animal) {
+public boolean addAnimal(Animal animal) {
     if (searchAnimal(animal) != -1)
         return false;
     if (isZooFull())

@@ -1,17 +1,15 @@
 package tn.esprit.gestionzoo.main;
 
+import tn.esprit.gestionzoo.entities.*;
 import tn.esprit.gestionzoo.entities.Animal;
-import tn.esprit.gestionzoo.entities.Animal;
-package tn.esprit.gestionzoo.entities;
 
-import tn.esprit.gestionzoo.entities.Zoo;
 
 
 public class ZooManagement {
     
 
 
-    public static void main(String[] args) {
+    public static <Dolphin> void main(String[] args) {
 
         Animal lion = new Animal();
         lion.name = "Simba";
@@ -48,6 +46,11 @@ public class ZooManagement {
         Zoo zooAvecPlusAnimaux = Zoo.comparerZoo(zoo1, zoo2);
         System.out.println("Le zoo avec le plus d'animaux est : " + zooAvecPlusAnimaux.getName());
 
+        Animal animal = new Animal();
+        Aquatic aquaticAnimal = new Aquatic();
+        Terrestrial terrestrialAnimal = new Terrestrial();
+        Dolphin dolphin = new Dolphin();
+        Penguin penguin = new Penguin();
     }
 
 }
