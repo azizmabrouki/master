@@ -1,6 +1,5 @@
-package tn.esprit.gestionzoo.entities;
+package gestionzoo.entities;
 
-import tn.esprit.gestionzoo.entities.Animal;
 public class Zoo {
     private static final int MAX_ANIMALS = 25;
 

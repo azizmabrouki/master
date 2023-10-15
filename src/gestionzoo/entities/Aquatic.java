@@ -1,4 +1,4 @@
-package tn.esprit.gestionzoo.entities;
+package gestionzoo.entities;
 
 class Aquatic extends Animal {
     private String habitat;

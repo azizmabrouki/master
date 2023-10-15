@@ -1,4 +1,4 @@
-package tn.esprit.gestionzoo.main;
+package gestionzoo.main;
 
 import tn.esprit.gestionzoo.entities.*;
 import tn.esprit.gestionzoo.entities.Animal;
