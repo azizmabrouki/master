@@ -24,13 +24,13 @@ public class EtudiantAlternance extends Etudiant {
     @Override
     public void ajouterUneAbsence() {
 
-        int nouveauSalaire = getSalaire() - 50;
 
 
-        if (nouveauSalaire < 0) {
+
+        if (getSalaire()< 0) {
             setSalaire(0);
         } else {
-            setSalaire(nouveauSalaire);
+            setSalaire(getSalaire() - 50);
         }
     }
 
