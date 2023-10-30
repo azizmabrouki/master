@@ -21,4 +21,19 @@ public class Etudiant3eme extends Etudiant {
     }
 
 
+    public void ajouterUneAbsence() {
+
+        float nouvelleMoyenne = getMoy() - 0.5f;
+
+
+        if (nouvelleMoyenne < 0) {
+            setMoy(0);
+        } else {
+            setMoy(nouvelleMoyenne);
+        }
+    }
+
+
+
+
 }

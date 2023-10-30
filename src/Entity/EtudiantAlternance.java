@@ -19,4 +19,20 @@ public class EtudiantAlternance extends Etudiant {
     public void setSalaire(int salaire) {
         this.salaire = salaire;
     }
+
+
+    @Override
+    public void ajouterUneAbsence() {
+
+        int nouveauSalaire = getSalaire() - 50;
+
+
+        if (nouveauSalaire < 0) {
+            setSalaire(0);
+        } else {
+            setSalaire(nouveauSalaire);
+        }
+    }
+
+
 }

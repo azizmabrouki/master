@@ -47,5 +47,8 @@ public class Etudiant {
     public void setMoy(float moy) {
         this.moy = moy;
     }
+    public void ajouterUneAbsence() {
+
+    }
 
 }
