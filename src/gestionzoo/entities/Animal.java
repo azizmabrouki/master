@@ -19,35 +19,51 @@ public class Animal {
         this.isMammal = isMammal;
     }
 
-   
-    public Animal() {
-    }
-
-
-    public String getFamily() {
-        return family;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public int getAge() {
-        return age;
-    }
-
-    public boolean isMammal() {
-        return isMammal;
-    }
-
 
     @Override
     public String toString() {
         return "Animal{" +
-                "family='" + family + '\'' +
-                ", name='" + name + '\'' +
-                ", age=" + age +
-                ", isMammal=" + isMammal +
+                "family='" + getFamily() + '\'' +
+                ", name='" + getName() + '\'' +
+                ", age=" + getAge() +
+                ", isMammal=" + getIsMammal() +
                 '}';
+    }
+
+    public String getName(){
+        return name;
+    }
+
+    public void setName(String name) {
+        if (name != null && !name.isEmpty()) {
+            this.name = name;
+        }
+    }
+    public String getFamily(){
+        return family;
+    }
+
+    public void setFamily(String family)
+    {
+        this.family=family;
+    }
+    public int getAge(){
+        return age;
+    }
+
+    public void setAge(int age)
+    {
+        if(age>0)
+        { this.age=age;}
+    }
+
+    public boolean getIsMammal()
+    {
+        return isMammal;
+    }
+
+    public void setIsMammal(boolean isMammal)
+    {
+        this.isMammal=isMammal;
     }
 }

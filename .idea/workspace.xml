@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e245f221-8272-4c77-b811-506da28d9a59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Aquatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Aquatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Dolphin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Terrestrial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Terrestrial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/main/ZooManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/main/ZooManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,22 +24,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Aziz Mabrouki/IdeaProjects/zoo5",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Aziz Mabrouki/IdeaProjects/zoo5/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aziz Mabrouki/IdeaProjects/zoo5&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Aziz Mabrouki/IdeaProjects/zoo5/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Aziz Mabrouki\IdeaProjects\zoo5" />
@@ -63,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1697371154238</updated>
       <workItem from="1697371155242" duration="1010000" />
-      <workItem from="1697372212452" duration="2361000" />
+      <workItem from="1697372212452" duration="2751000" />
+      <workItem from="1698660423833" duration="35000" />
     </task>
     <servers />
   </component>
