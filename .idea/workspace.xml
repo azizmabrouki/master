@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e245f221-8272-4c77-b811-506da28d9a59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Aquatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Aquatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Dolphin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Dolphin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Penguin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Penguin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Terrestrial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Terrestrial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/entities/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/entities/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/gestionzoo/main/ZooManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gestionzoo/main/ZooManagement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +62,7 @@
       <workItem from="1697372212452" duration="2751000" />
       <workItem from="1698660423833" duration="35000" />
       <workItem from="1701859266628" duration="1269000" />
+      <workItem from="1701945456917" duration="693000" />
     </task>
     <servers />
   </component>
